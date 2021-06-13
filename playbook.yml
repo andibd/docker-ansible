@@ -1,4 +1,4 @@
-- hosts: server
+- hosts: myserver
   vars:
   - image: andibd/apache-docker-ansible
   tasks:
